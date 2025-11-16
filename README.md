@@ -17,7 +17,7 @@ This project was developed as part of a **one-week UX/UI design sprint**. Due to
 ![Event Overview](./screenshots/Figma-Round-the-table-app.png)  
 
 ## 🔗 Figma Prototype  
-[Click here to view the prototype in Figma](https://www.figma.com/design/VHHiXFAeIbC1bkHZZdRt1z/Gruppenprojekt?node-id=0-1&t=8aslxpDJ3SIiSeei-1)  
+[Click here to view the prototype in Figma](https://www.figma.com/design/VHHiXFAeIbC1bkHZZdRt1z/Gruppenprojekt?node-id=2013-5254&t=fUGhzKts4NnLgZWd-1)  
 
 ## ✨ Design Decisions  
 - Focus on essential features for a seamless user experience  
